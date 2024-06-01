@@ -4,7 +4,7 @@ import io
 from PIL import Image
 import google.generativeai as genai
 
-genai.configure(api_key='AIzaSyBIuj2VylitDnbI-D977wP2MjiP7OiGzlY')
+genai.configure(api_key='Write your API key')
 
 #Load Gemini-pro Vision
 
